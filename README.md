@@ -385,7 +385,7 @@ The paper reports the following shared implementation choices and dataset-specif
 | Dataset group | Feature Dimension |
 |---|---:|
 | ADNI and NIFD | 180 |
-| BreastMNIST, Liver Ultrasound, and PneumoniaMNIST | 384 |
+| BreastMNIST, Liver Ultrasound, and PneumoniaMNIST | 768, 512 |
 
 The paper reports dataset-specific choices for the graph similarity threshold, activation function, contrastive weighting, temperature, EMA decay, regularization coefficients, weight decay, and number of training epochs.
 
